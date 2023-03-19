@@ -28,7 +28,5 @@ public class Soal_1 {
             else {
                 System.out.println(angka);
             }
-
-
     }
 }
